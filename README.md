@@ -121,8 +121,6 @@ Atualmente busco minha primeira oportunidade como <strong>Estagiário em Tecnolo
 
 <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
 </p>
 
 ---
