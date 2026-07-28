@@ -5,7 +5,7 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> • Desenvo
 </p>
 
 <p align="center">
-Atualmente busco minha primeira oportunidade como <strong>Estagiário em Desenvolvimento</strong>, aplicando conhecimentos em desenvolvimento web, mobile, bancos de dados e APIs.
+Atualmente busco minha primeira oportunidade como <strong>Estagiário em Tecnologia da Informação</strong>, aplicando conhecimentos em desenvolvimento web, mobile, bancos de dados e APIs.
 </p>
 
 <p align="center">
